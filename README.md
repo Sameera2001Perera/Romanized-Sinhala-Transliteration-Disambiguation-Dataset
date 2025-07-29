@@ -1,4 +1,4 @@
-## 📊 WSD Dataset Summary for Romanized Sinhala
+## 📊 Transliteration Disambiguation Dataset Summary for Romanized Sinhala
 
 | Attribute                           | Description                                                           |
 | ----------------------------------- | --------------------------------------------------------------------- |
